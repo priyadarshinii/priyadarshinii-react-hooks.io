@@ -1,2 +1,2 @@
-# priyadarshinii-react-hooks.io
+# react-hooks
 A simple application using React hooks
